@@ -1,0 +1,12 @@
+﻿E:\duannhonho2\duannhonho2\Form1.cs
+E:\duannhonho2\duannhonho2\Form1.Designer.cs
+E:\duannhonho2\duannhonho2\Main.cs
+E:\duannhonho2\duannhonho2\Main.Designer.cs
+E:\duannhonho2\duannhonho2\Program.cs
+E:\duannhonho2\duannhonho2\Properties\AssemblyInfo.cs
+E:\duannhonho2\duannhonho2\Form1.resx
+E:\duannhonho2\duannhonho2\Main.resx
+E:\duannhonho2\duannhonho2\Properties\Resources.resx
+E:\duannhonho2\duannhonho2\packages.config
+E:\duannhonho2\duannhonho2\Properties\Settings.settings
+E:\duannhonho2\duannhonho2\App.config
